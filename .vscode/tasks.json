@@ -8,8 +8,8 @@
             "type": "shell",
             "command": "g++",
             "args": [
-                "-g", "UVA 10633: Rare Easy Problem.cpp"
-                // "-g", "~//Program//algorithm//QuickSort.cpp"
+                "-g",
+                "UVA 11233: Deli Deli.cpp"
             ],
             "group": {
                 "kind": "build",
