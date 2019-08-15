@@ -9,12 +9,13 @@
             "command": "g++",
             "args": [
                 "-g",
-                "UVA 488 Triangle Wave.cpp"
+                "Algorithm/interval_schedule.cpp"
             ],
             "group": {
                 "kind": "build",
                 "isDefault": true
             }
         } 
+
     ]
 }
