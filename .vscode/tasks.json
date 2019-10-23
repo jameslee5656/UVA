@@ -9,7 +9,7 @@
             "command": "g++",
             "args": [
                 "-g",
-                "Algorithm/interval_schedule.cpp"
+                "Algorithm/convexHullJarvis.cpp"
             ],
             "group": {
                 "kind": "build",

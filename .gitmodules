@@ -1,0 +1,6 @@
+[submodule "additionC++Lib/matplotlib-cpp"]
+	path = additionC++Lib/matplotlib-cpp
+	url = https://github.com/lava/matplotlib-cpp.git
+[submodule "additionC++Lib/cpython"]
+	path = additionC++Lib/cpython
+	url = https://github.com/python/cpython.git
